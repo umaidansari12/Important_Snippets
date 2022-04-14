@@ -395,6 +395,8 @@ out_file_name = file_name.replace("DailyLoginHrsBasefile", "daily_login")
 
 * ### Generate Service Account
 [Service Account] (https://docs.google.com/document/d/1L3IugVkThz9sxuMxNtwC1dx5ZmkYGOhijiitbYl9yFM/edit)
+* ### Generate OAuth Client 
+[OAuth Client] (https://docs.google.com/document/d/1AANynjE0bjBFdrOkoISkTlp3uBhRf8hKL-jWxs0ikX8/edit)
 
 
 * # Conda
