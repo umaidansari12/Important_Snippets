@@ -8,7 +8,7 @@ sudo apt-get install awscli
 * ### Check  versioning of AWS
 `aws --version`
 
-* ### Top check identity of user in AWS CLI
+* ### To check identity of user in AWS CLI
 `aws sts get-caller-identity`
 
 * ### List users in AWS CLI
@@ -53,3 +53,4 @@ aws s3 ls
 ```
 aws s3 cp s3://<bucket_name>/<folder_name>/<file_name>.<extension> <download_folder>/<file_name>.<extension>
 ```
+
