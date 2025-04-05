@@ -65,3 +65,10 @@ cat file1.txt > file2.txt - redirects stoutput to file
 ```
 env - to print out environment variables
 ```
+
+```
+sudo tail -f /var/log/syslog
+```
+```
+df -h //to check disk space in local/server
+```

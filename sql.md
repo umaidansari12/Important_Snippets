@@ -27,4 +27,10 @@ JOIN (LEFT, INNER, RIGHT, etc.) statements normally require an 'ON ..." conditio
 Reference :
 [StackOverFlow Link](https://stackoverflow.com/questions/35374860/join-select-ue-on-1-1)
 
+QUERY PLAN - it is used to check how much memory our query is using, and how much unnecessary records are being accessed.
+
+	EXPLAIN ANALYZE - used when the query starts with SELECT
+
+	ROLLBACK - used when the query starts with INSERT/UPDATE  
+
 ```
